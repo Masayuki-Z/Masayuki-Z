@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Explorer-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer-Engineering-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer-Engineering-24292e?style=flat-square" />
   <img src="https://img.shields.io/badge/Always-Learning-F97316?style=flat-square" />
 </p>
 

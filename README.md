@@ -33,20 +33,23 @@ Beyond coding, I also enjoy working on system design, technical planning, and co
  
 # ⚡ Technical Interests & Skills
 
-<table>
+<div align="center">
+
+<table width="90%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>💻 Programming Languages </h3>
+<h3>💻 Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-<h3> 🛠️ Frameworks, Libraries & Tools </h3>
+<h3>🛠️ Frameworks, Libraries & Tools</h3>
 <p>
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -58,25 +61,23 @@ Beyond coding, I also enjoy working on system design, technical planning, and co
 </td>
 <td width="50%" valign="top">
 
-<h3> 🤖 Machine Learning & Deep Learning </h3>
-<p>
+<h3>🤖 Machine Learning & Deep Learning</h3>
 <ul>
-  <li>Supervised and Unsupervised Learning</li> 
-  <li>CNN, LSTM, Transfer Learning</li> 
-  <li>Feature Engineering and Feature Selection</li> 
-  <li>Hyperparameter Optimization</li> 
-  <li>Model Evaluation and Cross-Validation</li> 
-  <li>Classification and Predictive Modeling</li> 
+  <li>Supervised and Unsupervised Learning</li>
+  <li>CNN, LSTM, Transfer Learning</li>
+  <li>Feature Engineering and Feature Selection</li>
+  <li>Hyperparameter Optimization</li>
+  <li>Model Evaluation and Cross-Validation</li>
+  <li>Classification and Predictive Modeling</li>
 </ul>
-</p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-<h3> 📊 Data Engineering & Analytics </h3>
-<p>
+<h3>📊 Data Engineering & Analytics</h3>
 <ul>
   <li>Data Processing and Transformation</li>
   <li>ETL and Data Pipelines</li>
@@ -84,21 +85,24 @@ Beyond coding, I also enjoy working on system design, technical planning, and co
   <li>Database Design</li>
   <li>Data Analysis and Visualization</li>
 </ul>
-</p>
+
 </td>
 <td width="50%" valign="top">
 
-<h3> 📋 Technical & Project Coordination </h3>
+<h3>📋 Technical & Project Coordination</h3>
 <ul>
-<li> Technical Documentation </li>
-<li>  Business Requirements (BRD)</li>
-<li>  Product Requirements (PRD)</li>
-<li>  System Planning and Coordination</li>
-<li> REST API Concepts
+  <li>Technical Documentation</li>
+  <li>Business Requirements (BRD)</li>
+  <li>Product Requirements (PRD)</li>
+  <li>System Planning and Coordination</li>
+  <li>REST API Concepts</li>
 </ul>
+
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 🚀 Current Focus
 
@@ -115,9 +119,9 @@ Currently focusing on:
 
 
 <p align="center">
-  <img src="https://github.com/Masayuki-Z/Masayuki-Z/blob/main/gif.gif?raw=true"
-       width="30%" ้hight="20%"
-       alt="Running Fox Banner" />
+  <img src="https://raw.githubusercontent.com/Masayuki-Z/Masayuki-Z/main/gif.gif?raw=1"
+       alt="Running Fox Banner"
+       width="35%" height="35%">
 </p>
 
 <p align="center">
@@ -136,5 +140,10 @@ Currently focusing on:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=90&section=footer" alt="Orange wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=90&section=footer"
+       width="1000%"
+       alt="Orange wave footer"
+       style="display:block;" />
 </p>
+  
+

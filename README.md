@@ -115,7 +115,9 @@ Currently focusing on:
 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/13HgwgsXF0aeGY/giphy.gif" alt="Pixel fox running GIF" height="140px" />
+  <img src="https://github.com/Masayuki-Z/Masayuki-Z/blob/main/gif.gif?raw=true"
+       width="30%" ้hight="20%"
+       alt="Running Fox Banner" />
 </p>
 
 <p align="center">
